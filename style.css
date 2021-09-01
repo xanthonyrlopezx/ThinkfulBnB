@@ -4,35 +4,46 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+div.logo {
+	font-family: "cereal"
+}
+
 h2 {
-  font-size: 26px;
-  font-weight: 400;
-  margin: 0 10px 10px 10px;
-  text-align: center;
+	font-size: 42px;
+	font-weight: 400;
+	margin: 0 10px 10px 10px;
+	text-align: center;
 }
 
 h3 {
-  font-size: 18px;
-  font-weight: 500;
+	font-size: 24px;
+	font-weight: 500;
+	font-weight: bold;
 }
 
 p {
-  line-height: 1.5em;
-  margin: 0;
+	line-height: 1.5em;
+	margin: 0;
+	font-size: 19px;
+}
+
+li {
+	font-size: 19px;
 }
 
 section {
-  padding: 20px;
+	padding: 20px;
 }
 
 section.alternate-background {
-  background-color: #00a699;
-  color: #fff;
+	background-color: #00a699;
+	color: #fff;
 }
 
 main img {
-  width: 100%;
+	width: 100%;
 }
+
 
 /* ---  Groups & Items --- */
 
